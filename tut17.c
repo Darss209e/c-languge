@@ -9,7 +9,7 @@ int main()
 
     // goto label;
     // end:
-    //     printf("we are at end");
+    //     printf("we are at end"); 
     int num;
     for (int i = 0; i < 8; i++)
     {

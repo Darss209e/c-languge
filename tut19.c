@@ -30,10 +30,10 @@ int main()
     // int a, b, c;
     // a = 9;
     // b = 87;
-    // c = sum(a, b);
+    c = sum(a,b);
     // printstar(9);
-//    c = takenumber();
-      printmessage();
+    // takenumber();
+    //   printmessage();
     // printf("the number entered is %d\n",c);
     return 0;
 }

@@ -1,5 +1,2 @@
- // else
-    // {
-    //     printf("%c is constant");
-    // }
-    
+
+return 0;
