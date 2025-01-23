@@ -16,7 +16,7 @@ while (str[i]!='\0')
 int main()
 {
     // char str[] = {'D','a','r','s','h','a','n','\0'};
-    // char str[8]="Darshan";
+    char str[8]="Darshan";
     char str[34];
     fgets(str,34,stdin);
     printf("using custom function\n");
