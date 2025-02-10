@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+int sum =34;
 int* functionDangling()
 {
-    int a,b,sum;
+    int a,b,sum2;
     a =34;
     b=364;
     sum = a+b;
@@ -11,7 +11,7 @@ int* functionDangling()
 
 }
 
-int main()
+int main2()
 {
     //  case 1: de allocation of a memory block
     int*ptr=(int*)malloc(7*sizeof(int));
